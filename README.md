@@ -1,5 +1,5 @@
 <p float="left">
-  <img src="/banner.png" width=250 height=200 align="left" />
+  <img src="/banner.png" height=200 align="left" />
   <p float="left">
     <samp>
       akkih! | he/him
@@ -8,12 +8,12 @@
       <br>
       brazil, 18
       <br>
-      kotlin/java & typescript
+      kotlin and typescript (sometimes)
       <br>
-      looking for something else to procrastinate
+      minecraft plugin developer
       <br>
       <br>
-      contact me on discord: <b>awkkih</b>
+      discord: <b>@awkkih</b>
       <br>
     </samp>
   </p>
